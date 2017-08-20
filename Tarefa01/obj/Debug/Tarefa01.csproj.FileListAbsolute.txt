@@ -1,0 +1,7 @@
+D:\Desktop\progint\Tarefa01\Tarefa01\obj\Debug\Tarefa01.csprojResolveAssemblyReference.cache
+D:\Desktop\progint\Tarefa01\Tarefa01\obj\Debug\Tarefa01.csproj.CoreCompileInputs.cache
+D:\Desktop\progint\Tarefa01\Tarefa01\bin\Debug\Tarefa01.exe.config
+D:\Desktop\progint\Tarefa01\Tarefa01\bin\Debug\Tarefa01.exe
+D:\Desktop\progint\Tarefa01\Tarefa01\bin\Debug\Tarefa01.pdb
+D:\Desktop\progint\Tarefa01\Tarefa01\obj\Debug\Tarefa01.exe
+D:\Desktop\progint\Tarefa01\Tarefa01\obj\Debug\Tarefa01.pdb
